@@ -27,7 +27,7 @@ keys = [
                 "n97rm1G0-714vbf3I-O05L16NJ",
                 "iD8j457u-e314Fm8c-06x7RwN4",
             ]
-gkeys = []
+gkeys = [11]
 os.system('cls' if os.name == "nt" else 'clear')
 # The most important line of code, nothing will work without it!
 print("\n█░█░█ ▄▀█ █▀█ █▀█ ▄█▄\n▀▄▀▄▀ █▀█ █▀▄ █▀▀ ░▀░\n")
